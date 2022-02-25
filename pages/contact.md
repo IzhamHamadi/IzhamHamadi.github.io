@@ -22,7 +22,7 @@ Feel free to contact me on my any of my social media accounts
             <i class="fa-brands fa-linkedin fa-stack-3x"></i>
           </span>Linkedin</a>
         <br>
-        <a href="https://github.com/NovusIrez" target="_blank">
+        <a href="https://github.com/IzhamHamadi" target="_blank">
           <span class="fa-stack fa-lg">
             <i class="fa-brands fa-github fa-stack-3x"></i>
           </span>Github</a>
