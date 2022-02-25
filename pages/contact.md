@@ -1,8 +1,7 @@
 ---
 layout: article
+title: Contact
 ---
-
-## Contact
 
 Feel free to contact me on my any of my social media accounts
 

@@ -1,8 +1,7 @@
 ---
 layout: article
+title: Project Highlights
 ---
-
-# Project Highlights
 
 <div class="grid" style="padding-top: 40px;">
   <div class="cell cell--7" style="padding-right: 30px;"> 
