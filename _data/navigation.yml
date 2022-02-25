@@ -2,23 +2,14 @@ header:
   - title: Home
     url: /
 
-  - title: Blog
-    url: /pages/index
+  - title: Biography
+    url: /pages/biography
 
-  - title: Archive
-    url: /pages/archive
+  - title: Projects
+    url: /pages/project
 
-  - title: Docs
-    url: /docs/gist
+  - title: Gallery
+    url: /pages/gallery
 
-  - title: About
-    url: /pages/about
-  
-  - title: Donate
-    url: /pages/donate
-
-docs:
-  - title:      Start
-    children:
-      - title:  The Gist
-        url:    /docs/gist
+  - title: Contact
+    url: /pages/contact
