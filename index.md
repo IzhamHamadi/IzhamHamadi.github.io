@@ -34,7 +34,7 @@ Muhammad Izham Bin Norhamadi is a degree student studying Computer Security at U
       </div>
     </div>
   <br>
-  Passionate and enthusiastic of Capture The Flag competitions
+  Passionate and interested about security challenges and inner workings of softwares
   </div>
 
   <div class="cell cell--4" style="padding-right: 30px;">
@@ -60,7 +60,7 @@ Muhammad Izham Bin Norhamadi is a degree student studying Computer Security at U
       </div>
     </div>
   <br>
-  Whether it was to recommend a platform to create system or a programming problem, various people reached out for help
+  Experienced with passing down knowledge to peers in a cohesive and easy to digest form
   </div>
   
 </div>

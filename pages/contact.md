@@ -4,7 +4,6 @@ title: Contact
 ---
 
 Feel free to contact me on my any of my social media accounts
-<!-- 
 
 <div class="card">
       <div class="card__content">
@@ -36,5 +35,5 @@ Feel free to contact me on my any of my social media accounts
           <span class="fa-stack fa-lg">
             <i class="fa-brands fa-facebook fa-stack-3x"></i>
           </span>Facebook</a>
-</div> -->
+</div>
 

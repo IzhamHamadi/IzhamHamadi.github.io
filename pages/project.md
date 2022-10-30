@@ -55,3 +55,30 @@ title: Project Highlights
   </div>
 </div>
 </div>
+
+
+<div class="grid" style="padding-top: 100px;">
+  <div class="cell cell--7" style="padding-right: 20px;"> 
+    <div class="card">
+      <div class="card__image">
+        <img class="image" src="https://media.discordapp.net/attachments/920942335154589756/946565488996130826/gpo.png"/>
+      </div>
+    </div>
+  </div>
+  <div class="cell cell--3">
+    <b>Project Name:</b><br>Mobile App to Analyse APK Files based on YARA Rule<br><br>
+    <b>Description:</b><br>Project that aims to investigate the application of YARA Rule on malware investigation and to develop a mobile app that utilizes YARA Rule<br><br>
+    <b>Date:</b><br>June 2022
+  </div>
+</div>
+
+<div class="cell" style="padding-top: 30px; padding-right: 10%;">
+<div class="card">
+  <div class="card__content" style=" text-align: justify; text-justify: inter-word;">
+    <div class="card__header">
+      <h3>Yara Rule App</h3>
+    </div>
+    <p>Writing YARA rules manually requires a highly specialized skill set in security, whereas using tools can help generate YARA rules automatically with relative ease. The goal of this project is to bring Yara Rule generation functionality to Android devices by developing the application using Flutter framework. The application will scan selected APK file for their strings and outputs a report</p>
+  </div>
+</div>
+</div>
