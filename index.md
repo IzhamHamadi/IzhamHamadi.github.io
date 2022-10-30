@@ -27,7 +27,7 @@ Muhammad Izham Bin Norhamadi is a degree student studying Computer Security at U
   <div class="cell cell--4" style="padding-right: 30px;">
     <div class="card" >
       <div class="card__image">
-      <img class="image" src="https://media.discordapp.net/attachments/920942335154589756/945924449612468234/ctf.png?width=920&height=680"/>
+      <img class="image" src="https://raw.githubusercontent.com/IzhamHamadi/IzhamHamadi.github.io/main/Picture/CTF.png?width=920&height=680"/>
         <div class="overlay overlay--bottom">
           <small>CTF</small>
         </div>
@@ -40,7 +40,7 @@ Muhammad Izham Bin Norhamadi is a degree student studying Computer Security at U
   <div class="cell cell--4" style="padding-right: 30px;">
     <div class="card" >
       <div class="card__image">
-      <img class="image" src="https://media.discordapp.net/attachments/920942335154589756/945924465471148052/computer.jpeg?width=920&height=680"/>
+      <img class="image" src="https://raw.githubusercontent.com/IzhamHamadi/IzhamHamadi.github.io/main/Picture/computer.jpeg?width=920&height=680"/>
         <div class="overlay overlay--bottom">
           <small>Coding</small>
         </div>
@@ -53,7 +53,7 @@ Muhammad Izham Bin Norhamadi is a degree student studying Computer Security at U
   <div class="cell cell--4" style="padding-right: 30px;">
     <div class="card" >
       <div class="card__image">
-      <img class="image" src="https://media.discordapp.net/attachments/920942335154589756/945924475206131722/tablet.jpeg?width=920&height=680"/>
+      <img class="image" src="https://raw.githubusercontent.com/IzhamHamadi/IzhamHamadi.github.io/main/Picture/tablet.jpeg?width=920&height=680"/>
         <div class="overlay overlay--bottom">
           <small>Teaching</small>
         </div>
