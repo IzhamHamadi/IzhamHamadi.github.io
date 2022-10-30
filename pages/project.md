@@ -7,7 +7,7 @@ title: Project Highlights
   <div class="cell cell--7" style="padding-right: 30px;"> 
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://media.discordapp.net/attachments/920942335154589756/946565488618639360/toyyibpaypayment.jpg"/>
+        <img class="image" src="https://raw.githubusercontent.com/IzhamHamadi/IzhamHamadi.github.io/main/Picture/toyyibpaypayment.jpg"/>
       </div>
     </div>
   </div>
@@ -34,7 +34,7 @@ title: Project Highlights
   <div class="cell cell--7" style="padding-right: 20px;"> 
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://media.discordapp.net/attachments/920942335154589756/946565488996130826/gpo.png"/>
+        <img class="image" src="https://raw.githubusercontent.com/IzhamHamadi/IzhamHamadi.github.io/main/Picture/gpo.png"/>
       </div>
     </div>
   </div>
@@ -61,7 +61,7 @@ title: Project Highlights
   <div class="cell cell--7" style="padding-right: 20px;"> 
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://media.discordapp.net/attachments/920942335154589756/946565488996130826/gpo.png"/>
+        <img class="image" src="https://raw.githubusercontent.com/IzhamHamadi/IzhamHamadi.github.io/main/Picture/YaraScan.png"/>
       </div>
     </div>
   </div>

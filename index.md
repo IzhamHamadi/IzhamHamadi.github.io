@@ -7,12 +7,11 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: https://media.discordapp.net/attachments/920942335154589756/945911351593795614/izham.jpg
+    src: https://raw.githubusercontent.com/IzhamHamadi/IzhamHamadi.github.io/main/Picture/izham.jpg
 # articles:
 #   excerpt_type: html
 ---
 
-<!-- ![Irushia](https://media.discordapp.net/attachments/707408985895993374/707437128279261234/RAADE-Vol12_full_cover1.jpg) -->
 
 ## About Izham
 Muhammad Izham Bin Norhamadi is a degree student studying Computer Security at University Teknikal Malaysia Melaka with 4 years in the IT field. He graduated with an IT diploma in February 2021 with a CGPA of 3.82. Motivated and hardworking, aspires to build a career in Computer Science by seeking professional development opportunities.
